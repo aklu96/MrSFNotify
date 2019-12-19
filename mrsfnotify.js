@@ -6,7 +6,7 @@
 */
 'use strict';
 const nodemailer = require('nodemailer');
-const jStat = require('jStat').jStat;
+const jStat = require('jstat');
 const fetch = require('node-fetch');
 
 
